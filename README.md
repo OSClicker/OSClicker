@@ -14,5 +14,7 @@
 <h2>Bugs</h2>
 <li>
   Hotkeys are a bit buggy on GNU/Linux Operating Systems.
+<li>
+<li>
   Start/Stop button doesn't update when clicking finishes (When using set amount of clicks)
 </li>
